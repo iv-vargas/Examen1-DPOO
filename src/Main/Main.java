@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Mujer Promedio");
         System.out.println(mujer1.calcularTMB());
         
-        System.out.println("Niño Promedio");
+        System.out.println("Ninho Promedio");
         System.out.println(ninho1.calcularTMB());
     }
 

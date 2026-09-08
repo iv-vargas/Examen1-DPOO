@@ -6,7 +6,7 @@ public class Mujer extends Persona {
 	private final double TMBHEIGHTCONSTANT = 3.098;
 	private final double TMBAGECONSTANT = 4.33;
 	
-	public Mujer (float peso, float altura, int edad) {
+	public Mujer (double peso, double altura, int edad) {
 		super(peso, altura, edad);
 		pesoMaximo = 80;
 		pesoMinimo = 40;
