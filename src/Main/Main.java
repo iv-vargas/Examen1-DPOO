@@ -6,8 +6,13 @@ public class Main {
         Mujer mujer1 = new Mujer(70, 140,23);
         Persona ninho1 = new Mujer(30, 120, 15);
         
+        System.out.println("Hombre Promedio");
         System.out.println(hombre1.calcularTMB());
+        
+        System.out.println("Mujer Promedio");
         System.out.println(mujer1.calcularTMB());
+        
+        System.out.println("Niño Promedio");
         System.out.println(ninho1.calcularTMB());
     }
 
